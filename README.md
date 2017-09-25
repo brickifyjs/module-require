@@ -6,7 +6,8 @@ CommonJS module API polyfill for browsers
 
 Version: 1.0  
 License: MIT
-Forked: [MithrilJS](https://www.mithriljs.org);
+
+Forked: [MithrilJS](https://www.mithriljs.org)
 
 ## About
 
