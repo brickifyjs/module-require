@@ -4,6 +4,9 @@
 
 CommonJS module API polyfill for browsers
 
+> Useful when used with [Module require for browser](https://github.com/brickifyjs/module-require) \
+Useful when used with [Module require alias](https://github.com/brickifyjs/module-require-alias)
+
 Version: 1.0  
 License: MIT
 
